@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=adiloc&count_private=true&show_icons=true&theme=cobalt) 
@@ -14,7 +13,3 @@
 - 📺 MacGyver is the best TV show of all time.
 - 🎵 Mansur Brown Rocks!
 - 🌍 I Live in Frankfurt, Germany.
-
-=======
-<img align="right" alt="GIF" src="https://github.com/adidumitrascu/adidumitrascu/blob/main/code.gif?raw=true" width="500" height="320" />
->>>>>>> parent of 47d6ec2 (Update README.md)
