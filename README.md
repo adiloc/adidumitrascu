@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=adidumitrascu&count_private=true&show_icons=true&theme=cobalt) 
+![](https://github-readme-stats.vercel.app/api?username=adiloc&count_private=true&show_icons=true&theme=cobalt) 
 <img align="right" alt="GIF" src="https://github.com/adidumitrascu/adidumitrascu/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Random Facts
